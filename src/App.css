@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 20px;
+  padding: 0;
+}
+
+.header_sky {
+  background: #2b539e
+    url(https://www.weather-forecast.com/assets/base/header-sky-35b00f4d2b1eb4d3875f6a287d793092.jpg)
+    no-repeat top left;
+  padding: 5px, 0, 0, 0;
+  height: 104px;
+}
+.blockContainer {
+  width: 700px;
+  height: 640px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.weather_block {
+  background-color: #2b539e;
+  width: 209px;
+  height: 178px;
+  cursor: pointer;
+  margin: 5px;
+}
+.block_header {
+  font-size: 16px;
+  font-weight: 500;
+  color: #1f1f1f;
+}
+.temp {
+  margin-bottom: 2px;
+  white-space: nowrap;
+}
+.temp .high {
+  font-size: 45px;
+  letter-spacing: 1px;
+}
+.day-panel .temp .low {
+  font-size: 18px;
+  margin-left: -10px;
+ 

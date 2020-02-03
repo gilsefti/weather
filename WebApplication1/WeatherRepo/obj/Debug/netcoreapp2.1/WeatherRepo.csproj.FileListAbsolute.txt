@@ -1,0 +1,10 @@
+C:\dev\react\Weather\WebApplication1\WeatherRepo\obj\Debug\netcoreapp2.1\WeatherRepo.csprojAssemblyReference.cache
+C:\dev\react\Weather\WebApplication1\WeatherRepo\obj\Debug\netcoreapp2.1\WeatherRepo.AssemblyInfoInputs.cache
+C:\dev\react\Weather\WebApplication1\WeatherRepo\obj\Debug\netcoreapp2.1\WeatherRepo.AssemblyInfo.cs
+C:\dev\react\Weather\WebApplication1\WeatherRepo\bin\Debug\netcoreapp2.1\WeatherRepo.deps.json
+C:\dev\react\Weather\WebApplication1\WeatherRepo\bin\Debug\netcoreapp2.1\WeatherRepo.dll
+C:\dev\react\Weather\WebApplication1\WeatherRepo\bin\Debug\netcoreapp2.1\WeatherRepo.pdb
+C:\dev\react\Weather\WebApplication1\WeatherRepo\obj\Debug\netcoreapp2.1\WeatherRepo.dll
+C:\dev\react\Weather\WebApplication1\WeatherRepo\obj\Debug\netcoreapp2.1\WeatherRepo.pdb
+C:\dev\react\Weather\WebApplication1\WeatherRepo\bin\Debug\netcoreapp2.1\WeatherRepo.runtimeconfig.json
+C:\dev\react\Weather\WebApplication1\WeatherRepo\bin\Debug\netcoreapp2.1\WeatherRepo.runtimeconfig.dev.json
